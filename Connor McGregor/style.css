@@ -1,0 +1,60 @@
+body{
+    background-color:#dddddd ;
+    margin-top: 60px;
+}
+
+h1{
+    font-family: 'Permanent Marker', cursive; 
+}
+
+h2{
+    font-family: 'Permanent Marker', cursive;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+    margin: 100px auto;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.thumbnail-center{
+    text-align: center;
+}
+
+.img2{
+    max-width:80%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+.col-1{
+    text-align: auto;
+}
+
+.title-text{
+    font-family: 'Nunito Sans', sans-serif;
+    text-align: center;
+    line-height: 2rem;
+}
+
+.col-1{
+    font-family: 'IBM Plex Sans', sans-serif;
+    max-width: 1000px;
+    margin: auto;
+    line-height: 2rem;
+}
+
+.footer{
+    text-align: center;
+}
+
+
+    
